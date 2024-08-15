@@ -23,3 +23,16 @@ To run this game, you'll need to have Python and Pygame installed on your comput
 ##Download the Game Files: **Clone or download this repository to your local machine.
 
 Sound Files: **Ensure that the sound files (start.wav, win.wav, and lose.wav) are located in the same directory as the script or update the file paths in the script accordingly.
+
+
+##Usages 🚀
+1. **Run the Game: Open a terminal or command prompt, navigate to the directory containing the game files, and execute the Python script:
+   ```bash
+   pip turtle_race.py
+2. **Place Your Bet: When prompted, enter the color of the turtle you believe will win the race. 🐢
+
+3. **Watch the Race: Observe the turtles as they race across the screen. The race will continue until one turtle crosses the finish line. 🏁
+
+4. **View Results: The game will display whether you won or lost and update the scoreboard accordingly. 🎉
+
+5. **Restart the Game: To play another round, click the "Restart" button on the screen. Your score will be maintained, allowing you to keep track of your wins and losses. 🔄
