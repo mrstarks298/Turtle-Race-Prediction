@@ -19,3 +19,7 @@ To run this game, you'll need to have Python and Pygame installed on your comput
 2. **Install Pygame**: Open a terminal or command prompt and run:
    ```bash
    pip install pygame
+
+##Download the Game Files: **Clone or download this repository to your local machine.
+
+Sound Files: **Ensure that the sound files (start.wav, win.wav, and lose.wav) are located in the same directory as the script or update the file paths in the script accordingly.
