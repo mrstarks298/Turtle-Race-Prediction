@@ -6,9 +6,9 @@ import pygame
 pygame.mixer.init()
 
 # Load the sound files
-start_sound = pygame.mixer.Sound('day_19_Instances, State and Higher Order Functions/start.wav')
-win_sound = pygame.mixer.Sound('day_19_Instances, State and Higher Order Functions/win.wav')
-lose_sound = pygame.mixer.Sound('day_19_Instances, State and Higher Order Functions/lose.wav')
+start_sound = pygame.mixer.Sound('sound/start.wav')
+win_sound = pygame.mixer.Sound('sound/win.wav')
+lose_sound = pygame.mixer.Sound('sound/lose.wav')
 
 # Setup the screen
 screen = Screen()
